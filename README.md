@@ -8,8 +8,6 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 * Heart Disease
 * Kidney Disease
 * Liver Disease
-* Malaria
-* Pneumonia
 
 ## Models with their Accuracy of Prediction
 Disease | Type of Model | Accuracy
@@ -19,8 +17,6 @@ Breast Cancer | Machine Learning Model | 98.25%
 Heart Disease | Machine Learning Model | 85.25%
 Kidney Disease | Machine Learning Model | 99%
 Liver Disease | Machine Learning Model | 78%
-Malaria | Deep Learning Model(CNN) | 96%
-Pneumonia | Deep Learning Model(CNN) | 95%
 
 ## NOTE
 => You can access the website live at: https://mdcps.herokuapp.com/ <br> 
