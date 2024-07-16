@@ -1,4 +1,4 @@
-# Multiple Disease Classification And Prediction System (MDCPS)
+# Multiple Chronic Disease Classification And Prediction System (MCDCPS)
 ## Problem Statement
 In the current time of fast ruuning lives and pandemic, people prefer to be home treated and to ensure they avoid contaminated places such as hospitals and clinics as much as possible. Our project aims to provides a user friendly platform to cross validate results at go and to spread general awareness and provide precautionary measures.
 ## About
